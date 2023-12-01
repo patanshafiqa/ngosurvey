@@ -11,10 +11,10 @@
 	</properties>
 	<dependencies>
 		<dependency>
-			<groupId>org.seleniumhq.selenium</groupId>
-			<artifactId>selenium-server</artifactId>
-			<version>3.141.59</version>
-		</dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>4.15.0</version>
+</dependency>
 		<!-- https://mvnrepository.com/artifact/org.testng/testng -->
 		<!-- https://mvnrepository.com/artifact/org.testng/testng -->
 		<dependency>
